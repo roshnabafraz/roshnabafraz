@@ -13,11 +13,11 @@
   </a>
 </div>
 
-###
+##
 
 <p align="left">I'm Roshnab, an Android Developer dedicated to crafting apps that are as solid and reliable as they are beautiful. My development philosophy is simple:</p>
 
-###
+##
 
 <h3 align="center">minimalist code, maximal impact.</h3>
 
