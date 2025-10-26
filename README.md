@@ -17,7 +17,7 @@
 
 <p align="left">I'm Roshnab, an Android Developer dedicated to crafting apps that are as solid and reliable as they are beautiful. My development philosophy is simple:</p>
 
-##
+###
 
 <h3 align="center">minimalist code, maximal impact.</h3>
 
@@ -25,7 +25,7 @@
 
 <p align="left">When the compiler is resting, you can find me diving into filmmaking (perfecting that cinematic look), exploring the world through my camera lens (photography), or just unwinding with a movie and a good laugh. My projects are often infused with that same fun, creative energy.</p>
 
-###
+##
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo"  />
@@ -79,11 +79,11 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
 </div>
 
-###
+##
 
 <img src="https://raw.githubusercontent.com/roshnabafraz/roshnabafraz/output/snake.svg" alt="Snake animation" />
 
-###
+##
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=roshnabafraz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
